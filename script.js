@@ -91,4 +91,4 @@ button[0].onclick = function() {
 
 // $('.button').empty();
 // $('#points-of-sale').empty();
-$('#contact img').remove()
+// $('#contact img').remove()
